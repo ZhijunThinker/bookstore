@@ -1,1 +1,1 @@
-hello ! this is my fist studing
+This is bookstore. my fist learning program
